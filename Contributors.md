@@ -1,4 +1,5 @@
 # Contributors
+- Manuel
 aiymzhann08
 - [Cjensen32](https://github.com/cojense4) First contribution lol
 - dm - first timer!
